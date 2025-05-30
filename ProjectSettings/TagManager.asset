@@ -7,6 +7,8 @@ TagManager:
   - floor
   - Bullet
   - magma
+  - clear
+  - Clear
   layers:
   - Default
   - TransparentFX
